@@ -12,7 +12,7 @@ export default () => {
         <Container data-bs-theme="">
             {/* <img src="/assets/chillguy.jpg"></img> */}
             <h1>Meoww!</h1>
-            <Modal title="Otthon modál!!!" desc="Lorem ipsum? Tetszik?" btnText="Modál tesztelés" />
+            <Modal title="Otthon modál!!!" desc="Lorem ipsum? Tetszik?" btnText="Modál" />
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error deserunt provident impedit cum est repellendus, distinctio obcaecati expedita sunt? Quis facere odio ad reprehenderit velit hic officiis suscipit. Minus, quam?
             Omnis exercitationem, perspiciatis eveniet modi suscipit dicta corporis deleniti dignissimos reiciendis ab totam delectus vero! Adipisci molestiae quasi dolorum quia deserunt asperiores recusandae, laudantium pariatur culpa commodi rem beatae optio?
             Minima eligendi repellendus nam aliquid fuga voluptates quam aliquam tempore officiis repudiandae omnis expedita nostrum enim explicabo tenetur suscipit fugit, obcaecati eius tempora incidunt in ducimus nisi officia? Officiis, corporis.

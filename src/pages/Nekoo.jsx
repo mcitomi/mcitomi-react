@@ -2,6 +2,7 @@ import Navbar from "../components/Navbar";
 
 export default () => {
     return <>
-        <Navbar></Navbar>
+        <Navbar/>
+        <h1>Fasszopas Decsi</h1>
     </>
 }
