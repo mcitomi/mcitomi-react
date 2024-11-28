@@ -1,15 +1,11 @@
 import { Container } from "react-bootstrap";
 
-import Navbar from "../components/Navbar";
 import Modal from "../components/ModalBasicCustom";
 
 
 export default () => {
     return <>
-        <img src="/assets/chillguy.jpg"></img>
-        <Navbar/>
-       
-        <Container data-bs-theme="">
+        <Container>
             {/* <img src="/assets/chillguy.jpg"></img> */}
             <h1>Meoww!</h1>
             <Modal title="Otthon modál!!!" desc="Lorem ipsum? Tetszik?" btnText="Modál" />

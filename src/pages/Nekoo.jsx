@@ -1,8 +1,10 @@
+import { Container } from "react-bootstrap";
 import Navbar from "../components/Navbar";
 
 export default () => {
     return <>
-        <Navbar/>
-        <h1>Fasszopas Decsi</h1>
+        <Container>
+            <h1>Fasszopas Decsi</h1>
+        </Container>
     </>
 }
